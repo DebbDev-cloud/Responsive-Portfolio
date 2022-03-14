@@ -7,7 +7,7 @@ html{
 }
 body{
     margin: 3rem 0 0 0;
-    font-family: 'poppins' sans-serif;
+    font-family: "poppins";
     font-size: 0.938rem;
     color: #0e2431;
 }
@@ -172,7 +172,6 @@ img{
     width: 295px;
     right: 0;
     bottom: 0;
-
 }
 /*BUTTON*/
 .button{
