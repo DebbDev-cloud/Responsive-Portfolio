@@ -7,7 +7,7 @@ html{
 }
 body{
     margin: 3rem 0 0 0;
-    font-family: "poppins";
+    font-family: "poppins" sans-serif;
     font-size: 0.938rem;
     color: #0e2431;
 }
