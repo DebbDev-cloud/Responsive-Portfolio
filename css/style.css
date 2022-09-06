@@ -28,11 +28,11 @@ a{
 .color{
     background: var(--base-color);
 }
-/* img{
-    width: 70%;
+img{
+    width: 60%;
     height: auto;
    
-}   */
+}  
 .section-title{
     position: relative;
     font-size: 1.24rem;
@@ -83,7 +83,7 @@ nav{
 /*HERO*/
 .home-title{
     font-size: 2rem;
-    margin-bottom: 2.5rem;
+    margin-bottom: 2rem;
 }
 .home-color-title{
     color: #6f42c1;
@@ -99,11 +99,12 @@ nav{
 .home-social-icon:hover{
     color: #6f42c1;
 }
-.home_img img{
-    border-radius: 50%;
+.avatar-img{
     width: 400px;
-    right: 0;
-    bottom: 0;
+    clip-path: circle();
+}
+.dropdown{
+    margin-top: 2rem;
 }
 
 /*CONTACT*/
